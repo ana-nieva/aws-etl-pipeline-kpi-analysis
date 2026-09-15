@@ -2,8 +2,8 @@
 
 Un proyecto integral de Data Engineering orientado a transformar datos crudos en *insights* de negocio accionables, utilizando una arquitectura serverless en Amazon Web Services (AWS). 
 
-> 📎 **Documentación detallada:** [Ver Informe Técnico(PDF) aquí] (docs/Informe_de_Proyecto_2.pdf)
-> 📊 **Dashboard Interactivo:** [Ver archivo de Power BI (.pbix) aquí](docs/Dashboard_Nieva.pbix)
+> 📎 **Documentación detallada:** [Ver Informe Técnico(PDF) aquí] (docs/Informe de Proyecto.pdf)
+> 📊 **Dashboard Interactivo:** [Ver archivo de Power BI (.pbix) aquí] (docs/Dashboard_AnaNieva.pbix)
 
 ---
 
@@ -28,7 +28,7 @@ La capa de visualización se construyó conectando el dashboard ("Monitor de Sal
 *   **Salud de la Marca (NPS):** El índice de lealtad resultó en un **NPS de 6**, lo que indica una cartera altamente vulnerable (34% de detractores frente a un 40% de promotores).
 *   **Comportamiento de Uso:** La tasa de actividad general es del **22%**, con una marcada caída en la interacción (tanto en recargas como en compra de packs) hacia finales del mes de abril, lo que sugiere la necesidad de intervenciones de marketing tempranas.
 
-![Dashboard Monitor de Salud del Cliente](docs/image_08239b.png)
+![Dashboard Monitor de Salud del Cliente](docs/image1.png)
 
 ## 🛠️ Stack Tecnológico
 *   **Ingeniería de Datos:** AWS S3, AWS Glue, AWS Lambda.
