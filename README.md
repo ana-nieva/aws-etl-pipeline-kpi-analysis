@@ -2,8 +2,9 @@
 
 Un proyecto integral de Data Engineering orientado a transformar datos crudos en *insights* de negocio accionables, utilizando una arquitectura serverless en Amazon Web Services (AWS). 
 
-> 📎 **Documentación detallada:** [Ver Informe Técnico(PDF) aquí] (docs/Informe de Proyecto.pdf)
-> 📊 **Dashboard Interactivo:** [Ver archivo de Power BI (.pbix) aquí] (docs/Dashboard_AnaNieva.pbix)
+> 📎 **Documentación detallada:** [Ver Informe Técnico (PDF) aquí](docs/Informe%20de%20Proyecto.pdf)
+> 
+> 📊 **Dashboard Interactivo:** [Ver archivo de Power BI (.pbix) aquí](docs/Dashboard_AnaNieva.pbix)
 
 ---
 
